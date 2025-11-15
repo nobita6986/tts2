@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Voice Studio",
+  "description": "An application to create custom voice profiles, generate Text-to-Speech audio, transcribe speech, and engage in real-time voice conversations using Gemini models and Supabase for storage.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
